@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist.zip
+artifacts/
+*.log
+.vercel/
+.env
+.env.*
+!.env.example
